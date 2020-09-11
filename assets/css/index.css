@@ -1,0 +1,50 @@
+.layui-footer {
+    text-align: center;
+    font-size: 12px;
+}
+
+.iconfont {
+    margin-right: 8px;
+}
+
+.layui-icon {
+    margin-right: 8px;
+    margin-left: 20px;
+}
+
+iframe {
+    width: 100%;
+    height: 100%;
+}
+
+.layui-body {
+    overflow: hidden;
+}
+
+
+/* 强制清除a链接的c3动画 */
+
+a {
+    transition: none !important;
+}
+
+.userinfo {
+    text-align: center;
+    height: 60px;
+    line-height: 60px;
+}
+
+.layui-side-scroll .userinfo {
+    border-bottom: 1px solid #272a31;
+}
+
+.text-avatar {
+    width: 40px;
+    display: inline-block;
+    height: 40px;
+    line-height: 40px;
+    background-color: aquamarine;
+    border-radius: 50%;
+    text-align: center;
+    margin-right: 5px;
+}
